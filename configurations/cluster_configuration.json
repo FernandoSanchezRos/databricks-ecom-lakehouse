@@ -1,0 +1,10 @@
+{
+  "data_security_mode": "DATA_SECURITY_MODE_AUTO",
+  "cluster_name": "Simple Cluster",
+  "kind": "CLASSIC_PREVIEW",
+  "runtime_engine": "STANDARD",
+  "spark_version": "16.4.x-scala2.12",
+  "node_type_id": "Standard_D4ds_v5",
+  "autotermination_minutes": 20,
+  "is_single_node": true
+}
