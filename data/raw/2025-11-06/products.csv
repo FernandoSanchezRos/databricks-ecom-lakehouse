@@ -1,0 +1,306 @@
+productId,productName,category,unitPrice,currency,productReleaseDate,isDiscontinued,extraField2,op,eventTime,seqNum
+9b2e96f3-7b82-4060-8e7b-02ffce8b9298,Running Shoes,Sports,698.85,EUR,2024-08-30,N,,I,2025-11-06 04:04:08,1
+f78e4649-3bd4-42c1-a8d2-78ec70659769,Board Game,toys,129.1,EUR,2024-11-23,N,,I,2025-11-06 00:19:22,1
+9bd6e4bf-d1ff-49c6-ae2b-df51f103036e,Gym Bag,Sports,362.68,EUR,2024-05-02,N,toBeDropped,I,2025-11-06 17:53:32,1
+ddf3418c-a0e6-451c-87b2-acb3667ba025,Running Shoes,Sports ,461.07,EUR,2023-10-15,N,toBeDropped,I,2025-11-06 20:43:19,1
+01cc2e05-a943-4216-ad3d-3e1c70cec6b2,Cycling Helmet,sports,523.93,eur,2024-04-07,N,,I,2025-11-06 22:41:09,1
+ae08a687-9160-4f68-a5a2-92858ba73639,Action Figure,Electrónica  ,83.41,EUR,2021-12-01,NO,toBeDropped,I,2025-11-06 05:47:01,1
+8b497e6d-16d6-49a0-bab0-2a16146cbe55,Vacuum,home,133.14,EUR,2022-12-13,NO,toBeDropped,I,2025-11-06 04:06:46,1
+abc8d7de-8106-4f51-a40a-ecf7600ab53c,Printer,Electronics,356.83,EUR,2020-08-03,N,,I,2025-11-06 03:03:40,1
+df8e64fd-7fd2-40bb-bb5e-65783bae093d,Bluetooth Speaker,Electronics,406.84,eur,2021-11-11,N,toBeDropped,I,2025-11-06 10:45:01,1
+6e340716-6701-4a73-8782-6f12c60416ee,Running Shoes,Sports,788.17,EUR,2022-03-01,Y,toBeDropped,I,2025-11-06 21:59:16,1
+1dc48bd6-d71c-4ff7-913f-f43d305745f3,  Running Shoes ,Sports,290.23,EUR,2023-05-23,N,toBeDropped,I,2025-11-06 22:38:44,1
+cc20860a-6353-4686-bf8e-bb6b179d0662,Tablet,electronics,39.16,EUR,2023-02-14,Y,toBeDropped,I,2025-11-06 17:58:41,1
+408d3676-9764-4f48-aed5-869b2a3c818e,Kettle,home,299.25,eur,2022-11-13,N,,I,2025-11-06 00:48:54,1
+40ac152a-30b8-4a24-8894-9b51f849517e,Smartwatch,Electronics,399.55,EUR,2020-08-17,N,,I,2025-11-06 16:08:03,1
+fb0d7f8b-a2d0-438e-904f-b3060910eb74,Coche Teledirigido,Juguetes,731.12,EUR,2021-08-08,Y,toBeDropped,I,2025-11-06 06:46:21,1
+a0d61ce5-658d-4a43-b9f5-09600d711522,Printer,Electronics,92.59,EUR,2020-12-08,N,toBeDropped,I,2025-11-06 06:17:54,1
+c826ce1d-a75e-4fbd-8615-947720314ce5,Plancha,Hogar,719.94,EUR,2024-05-14,N,,I,2025-11-06 03:19:40,1
+8e86adfc-7c86-4fa4-b54f-83cf8084d0de,  Vacuum,home,413.24,EUR,2022-03-28,N,,I,2025-11-06 11:37:32,1
+3b6f20e0-daf7-44d6-bfe4-a5f120e209be,Cacerola,Hogar,264.91,USD,2022-12-08,N,,I,2025-11-06 19:45:53,1
+0fbe63fb-3b12-41d5-b39f-c2dfad3e8ea0, Gym Bag  ,Sports,,EUR,2021-08-10,N,,I,2025-11-06 04:42:07,1
+b6746a8c-8f93-47ab-a064-bc37ee1e769f,Gym Bag,Sports,458.95,EUR,2020-06-21,N,,I,2025-11-06 20:42:54,1
+c266e753-0617-484f-a7cf-c0726ab62251,Plancha,Hogar,596.73,EUR,2021-05-17,N,toBeDropped,I,2025-11-06 15:20:26,1
+38fcfb4d-1e9c-4d7b-b44d-d0fc7e0b17ac,Puzzle, toys ,535.41,USD,2021-03-12,N,,I,2025-11-06 16:10:43,1
+cf374db8-b553-400b-aa52-0a58031cd13f,Coche Teledirigido,Juguetes,441.72,USD,2021-05-25,N,toBeDropped,I,2025-11-06 19:09:27,1
+38516fbc-5894-4e2c-8b37-4c685e03acdd,Doll,  toys,656.56,EUR,2023-10-03,N,toBeDropped,I,2025-11-06 10:18:52,1
+ba6f9619-4bc0-4fba-9eed-76c71ed218f0,Monitor,Electrónica,432.95,EUR,2023-06-17,NO,,I,2025-11-06 12:17:34,1
+a5b0f06e-8dd0-4e01-a10d-35784d88d242,Running Shoes,Electrónica,41.98,EUR,2022-09-28,N,,I,2025-11-06 09:19:01,1
+cf8b02e7-e37f-489d-8056-df68e61aff58,Sartén,Hogar,203.31,USD,2021-01-04,N,,I,2025-11-06 06:43:53,1
+ef8d2a00-34ee-43d6-957d-178dd5e8f0d7,Coche Teledirigido,Electrónica,314.82,EUR,2022-06-08,N,toBeDropped,I,2025-11-06 02:13:53,1
+5601e35e-1a11-428a-be26-aa8d98bcd77d,Running Shoes,Electrónica,755.64,EUR,2025-05-10,N,,I,2025-11-06 03:58:05,1
+19b0d271-bc99-47d9-b9fe-64edc95d1bd9,  Printer  ,Electronics,529.36,USD,2022-05-07,NO,,I,2025-11-06 13:09:37,1
+22ede506-7987-431b-96ca-bba55cdb30e7,Sartén,Hogar,670.87,eur,2023-08-14,NO,,I,2025-11-06 01:19:18,1
+23987b91-7a36-44f7-bf4d-03ee4587852e,Cacerola,Hogar,85.13,USD,2024-10-26,N,toBeDropped,I,2025-11-06 20:21:04,1
+f2c5c998-11b7-427f-ba51-d5aa218982cc,Gym Bag,Sports,511.53,EUR,2020-11-08,N,,I,2025-11-06 15:46:16,1
+29677f4b-1f1f-4b3a-bb04-0bad70362044,Cafetera,Hogar,13.3,EUR,2021-01-29,N,toBeDropped,I,2025-11-06 05:23:43,1
+b2efe8f9-849b-4c7e-801f-4086f825b925,Pinturas,Juguetes,670.42,EUR,2025-07-14,N,toBeDropped,I,2025-11-06 08:33:09,1
+4ee2ce90-b0ab-4088-b07c-33c3e69d714e,Bluetooth Speaker,Electronics,773.48,Usd,2021-05-16,N,,I,2025-11-05 21:41:11,1
+5e39589e-8e43-4eaf-a06e-1bfa9b2e2998,Peluche,Juguetes,691.14,EUR,2025-04-01,NO,,I,2025-11-06 15:41:10,1
+6b7012b7-ad60-44ad-bf54-1a208dd9b293,Keyboard,Electrónica,81.75,EUR,2023-03-04,N,,I,2025-11-06 18:08:15,1
+37fe168b-b8dc-4071-8acd-9d0a96729f54,Blender,home,627.62,EUR,2024-03-02,N,toBeDropped,I,2025-11-06 08:26:01,1
+f1b20379-4ac4-4939-9f6a-e55f0f3404c4,Yoga Mat, sports  ,625.43,Usd,2023-05-04,yes,,I,2025-11-06 07:29:56,1
+c62f2994-e30d-47e7-9fc7-5112f12a72ad,Sartén, Hogar,512.64,eur,2021-02-21,N,toBeDropped,I,2025-11-06 23:53:32,1
+9c81a1f0-62e0-4285-84e6-16e7205deb95,Basketball,sports,260.24,EUR,2021-10-22,N,toBeDropped,I,2025-11-06 02:02:52,1
+5b608771-0dd4-4b40-9374-7e9bd161c1ef,Skipping Rope,Sports,161.3,EUR,2021-01-07,N,toBeDropped,I,2025-11-06 22:59:59,1
+75832e12-1ee1-41f5-be18-b8460ca8db8d,Running Shoes,Sports,85.59,EUR,2023-08-26,N,toBeDropped,I,2025-11-06 12:48:06,1
+8d4f5790-0c14-4e48-af6c-f45eafd6e91b,Coche Teledirigido,Juguetes,439.75,USD,2022-06-19,N,,I,2025-11-06 23:26:39,1
+f2f4c31b-436c-4b9d-8635-d111739c2fe3,Vacuum,home,239.54,EUR,2020-06-24,yes,,I,2025-11-06 21:46:52,1
+4209711a-1918-455c-a2db-1a2e84002441,Skipping Rope,Electrónica,711.22,Usd,2025-04-08,N,,I,2025-11-06 20:40:06,1
+9f5dc89c-1efd-4c4b-ac5e-1782d2e0cc90,  Blender,home,287.59,EUR,2024-12-20,NO,toBeDropped,I,2025-11-06 10:57:47,1
+ec82f188-beea-4f29-9ea3-55cdcd8d7ca8,Pinturas,Juguetes,86.53,USD,2023-01-15,N,,I,2025-11-06 01:51:17,1
+32f7ac6e-1533-4e87-b2c9-51ed84377b58,Sartén,Hogar,496.19,EUR,2024-04-15,N,,I,2025-11-06 16:07:59,1
+c29baf29-ddd8-40f1-bdce-1bf77472f30c,Yoga Mat,sports,53.83,USD,2021-08-19,Y,toBeDropped,I,2025-11-06 15:22:13,1
+6cc5415a-e208-4c16-877c-45b343c1f5fd,Skipping Rope,Sports,789.01,EUR,2021-07-04,N,toBeDropped,I,2025-11-06 12:55:26,1
+bc19194b-bb34-434e-9371-bcbd33689408,Running Shoes,Sports,784.2,Usd,2024-12-18,N,toBeDropped,I,2025-11-06 03:00:50,1
+b0016907-9cb5-4956-918e-c506b05e9e4e,  Bluetooth Speaker,Electronics,,USD,2024-11-17,N,,I,2025-11-06 16:28:26,1
+d33c9076-36f4-43fe-b87c-980261bf6af8,Printer,Electronics,561.64,Usd,2025-04-03,N,,I,2025-11-06 09:24:44,1
+0d45cb29-9987-4080-94f9-f25ac95737fe,Gym Bag,Electrónica,75.32,EUR,2024-08-16,N,,I,2025-11-06 17:26:06,1
+91ef5b5f-a10b-475b-b0d1-fde0bf90d875,Sartén,Hogar  ,,EUR,2025-07-12,N,toBeDropped,I,2025-11-06 22:16:23,1
+8b2adbdc-a4f6-4bc2-adf9-0ae832bcdc07,Football ,  sports,153.22,EUR,2021-11-03,NO,toBeDropped,I,2025-11-06 02:38:14,1
+d5e22f78-52f2-404f-bbfa-b8a61b2eb6c1,Yoga Mat,Electrónica,498.8,USD,2020-08-18,NO,,I,2025-11-06 04:20:03,1
+8f7eb310-ef3c-475e-bed1-55eb0dae2579,Football,Electrónica,156.95,EUR,2024-08-09,N,toBeDropped,I,2025-11-06 13:03:59,1
+c78a2baa-5a11-4416-a2d8-43ae11e0434d,Bluetooth Speaker,Electronics,199.24,EUR,2023-04-02,N,toBeDropped,I,2025-11-06 01:02:55,1
+c66c6042-9bdd-4196-aff8-0797b5adc2c0,Pinturas,Juguetes,81.73,EUR,2025-05-27,N,,I,2025-11-06 12:55:00,1
+c7abb66d-d16b-495d-83db-6dba174c5e6e,  Doll ,toys,258.29,EUR,2022-10-11,N,,I,2025-11-06 15:59:41,1
+ef1dd107-2107-4b8c-92a6-4ae0fed67733,Pinturas,Juguetes,246.8,EUR,2023-09-06,Y,toBeDropped,I,2025-11-06 10:34:40,1
+6b1ad6b1-3b61-417d-ab0c-ac7cf908420a, Cacerola ,  Hogar,592.19,EUR,2023-01-16,N,toBeDropped,I,2025-11-06 11:53:32,1
+8965dd74-050a-41b7-8eb8-3558ab0989c3,Sartén,Electrónica,81.62,EUR,2022-03-13,N,toBeDropped,I,2025-11-06 01:00:56,1
+d572ef70-bca6-46fb-8e60-57f15a670010,Headphones,electronics  ,167.21,Usd,2023-08-14,yes,toBeDropped,I,2025-11-06 01:42:04,1
+db94bd75-3ecd-4812-a87f-4f62fb555790,Blender,home,38.67,EUR,2023-10-17,N,toBeDropped,I,2025-11-06 22:53:17,1
+146cc46f-af1d-4e94-bdcc-492251c64f4f,Cacerola,Hogar,329.14,EUR,2022-09-10,N,,I,2025-11-06 05:45:10,1
+eec30555-9ad7-45e8-9b12-0eb8c18a8c08,  Keyboard,electronics,36.31,Usd,2023-09-27,N,toBeDropped,I,2025-11-06 21:10:09,1
+969d66b6-0b60-488f-b96c-c894586f4add,Printer,Electrónica ,430.4,USD,2022-10-18,yes,toBeDropped,I,2025-11-06 23:17:43,1
+32431485-d98f-4ec4-9af6-08b9e1123e13,Coche Teledirigido,Juguetes ,416.03,Usd,2021-06-15,N,,I,2025-11-06 01:28:58,1
+012712a7-447f-4a93-adb7-7d00c749af20,Yoga Mat,sports,355.29,Usd,2021-08-03,N,,I,2025-11-06 15:20:16,1
+43cf103c-5d9d-497f-a44b-39e20b56e5fd, Smartphone,electronics,688.01,EUR,2023-04-12,NO,toBeDropped,I,2025-11-06 14:12:05,1
+038f8575-5740-4f3d-bcac-d634f28a085a,Vacuum,home,157.89,EUR,2025-09-16,N,toBeDropped,I,2025-11-06 22:07:45,1
+e08a3376-d3ca-4fa9-84fe-d3dc49728b88,Sartén,Electrónica,548.76,USD,2021-04-27,N,,I,2025-11-06 15:44:17,1
+59eab143-3876-436c-9709-fb525c39f0ad,Smartwatch,Electronics,306.83,EUR,2020-06-03,N,toBeDropped,I,2025-11-06 10:20:44,1
+60966d1f-cb09-4a6b-b634-dee8972d5a48,Bluetooth Speaker,Electronics,749.96,eur,2024-06-04,N,toBeDropped,I,2025-11-06 22:35:37,1
+fffde1c5-6077-482e-bf3a-a3da8b1b8326,Yoga Mat,sports,735.78,EUR,2024-06-13,N,toBeDropped,I,2025-11-06 19:08:45,1
+2c0c29ce-7476-49c8-a37b-6c58dcba46c7,Cacerola, Hogar  ,592.78,USD,2023-07-04,yes,,I,2025-11-06 12:38:49,1
+4bf4eff9-cb29-4758-8f91-a5388abae99d,Basketball,sports,338.65,EUR,2023-10-29,N,,I,2025-11-06 06:04:22,1
+6a7911d5-2a77-452e-a8d9-ae6f69d2038a,  Doll  ,toys,175.92,EUR,2022-06-19,NO,toBeDropped,I,2025-11-06 19:05:18,1
+84e113d4-b839-46ca-9e93-61df4f09791f,Tennis Racket,sports,316.09,USD,2022-03-10,NO,,I,2025-11-06 04:14:55,1
+b86dab56-1c32-4476-96e0-3d0d7993eb3f,Vacuum,home,442.7,EUR,2023-03-31,N,,I,2025-11-06 01:59:08,1
+36785180-e5b8-44ef-8821-d52fc4350418, Smartwatch ,Electrónica,461.33,Usd,2023-10-17,N,toBeDropped,I,2025-11-06 23:21:15,1
+2878e04a-a6c1-4e08-a938-b030fa37ecc8,Board Game ,toys,630.21,USD,2021-03-14,N,,I,2025-11-06 05:18:36,1
+1e902865-91dc-43a1-861b-5f8f92bcf2aa,Blender,home,292.26,eur,2020-12-07,N,,I,2025-11-06 12:12:06,1
+01b37616-612a-4fc6-b584-121201204c9c,Doll,toys,133.12,EUR,2021-08-31,N,,I,2025-11-06 07:59:49,1
+fd6a261b-af76-4fb6-a08d-f0261efbc7b8, Lamp ,home,727.62,EUR,2021-08-15,N,toBeDropped,I,2025-11-06 12:06:06,1
+69a10f75-3f69-4948-85cb-e497947404ca,Pinturas,Juguetes,147.92,USD,2025-03-28,yes,toBeDropped,I,2025-11-06 08:51:11,1
+4bb02e4e-7de4-4c22-810b-315b754d24a6,Smartwatch,  Electronics,500.35,EUR,2021-07-09,N,toBeDropped,I,2025-11-06 09:08:06,1
+387f1e7d-6274-4252-87b4-ffbb8cfe4217,Webcam,Electronics,786.91,EUR,2025-07-02,N,toBeDropped,I,2025-11-06 00:06:12,1
+79bfe471-16cb-4b1d-8f43-45aa7ce7244c,Board Game,toys,256.9,USD,2024-07-15,N,,I,2025-11-06 13:28:31,1
+41beb56f-d76c-4525-be53-57cadcac3e43,Pinturas,Juguetes,,EUR,2021-01-20,N,,I,2025-11-06 05:15:36,1
+36deeef2-220c-4780-804c-514705796218,Peluche,Juguetes,31.68,USD,2023-09-05,N,,I,2025-11-06 12:37:42,1
+5cc93d8a-a2b8-42c2-91fb-68f94a0e04ce,Basketball,sports,576.14,USD,2023-04-27,N,toBeDropped,I,2025-11-06 10:49:50,1
+32d36d13-2bc4-4ce5-a3e8-a7613c01e394,Cycling Helmet,sports,21.34,EUR,2021-05-04,N,,I,2025-11-06 20:37:46,1
+cab7723f-4c20-4113-9beb-3f887dc69d95,Bluetooth Speaker,Electronics,579.32,EUR,2020-06-15,yes,toBeDropped,I,2025-11-06 04:49:56,1
+b96c42fe-4d4e-4788-bf4a-2e31d024110e,  Football,  sports,,Usd,2025-08-01,N,,I,2025-11-06 10:12:27,1
+385f9c1a-0ba4-4fb8-9065-906b68e2203c,Printer,Electronics,501.49,eur,2023-02-06,N,toBeDropped,I,2025-11-06 14:15:04,1
+2898fee3-b41a-468f-a452-67c43e2e21ba,Camera,electronics,407.54,EUR,2021-12-12,N,,I,2025-11-06 01:27:27,1
+30d57695-c9c2-4654-9277-3fbfd1577909,Smartwatch,Electronics,679.35,EUR,2021-12-18,N,toBeDropped,I,2025-11-06 16:29:53,1
+c74d0589-b582-4319-8d82-788c859efa05,Toaster,home,660.1,EUR,2022-07-05,N,,I,2025-11-06 12:08:32,1
+4bec4808-4078-49dd-bb60-7acb5caab9d4,Printer,Electronics,722.45,USD,2023-04-21,N,toBeDropped,I,2025-11-06 01:02:05,1
+ee2ecc46-2b30-46d0-afde-5745f9899153,Webcam,Electronics,617.79,EUR,2025-05-17,N,,I,2025-11-06 19:51:09,1
+c659f73f-3a41-40ae-bbb3-a0c14c501064,Yoga Mat,sports,401.26,EUR,2023-07-11,Y,,I,2025-11-06 11:46:44,1
+28eda44d-4787-45de-9f1b-17e9140f5824,Peluche,Juguetes,738.99,EUR,2023-02-18,N,toBeDropped,I,2025-11-06 19:56:25,1
+06fa94e8-468e-40a3-a372-2ace69be8ff3,Running Shoes, Sports,631.25,Usd,2021-07-23,NO,,I,2025-11-06 12:05:08,1
+8f21b233-b1b3-4b8c-b0a9-0b0c1e0e8374,Board Game, Electrónica,314.86,USD,2020-07-06,N,,I,2025-11-06 00:20:01,1
+ad7486e9-f336-4fc1-8cdb-ef420c7c936f,  Pinturas,Juguetes,347.99,USD,2024-08-14,N,toBeDropped,I,2025-11-06 13:29:17,1
+b23aeac8-05b9-4e95-b855-751841cf6e01, Lego Set  ,  Electrónica ,643.49,EUR,2024-07-30,N,,I,2025-11-06 02:54:34,1
+b1de3d3b-5698-4edf-b88b-bd0b4914861b,Cafetera,Hogar,646.28,EUR,2023-07-20,N,,I,2025-11-06 07:25:24,1
+ab09171e-3802-48d7-baf0-a8429dea04c2,Basketball,sports,508.2,Usd,2023-01-12,N,toBeDropped,I,2025-11-06 10:21:05,1
+d554ec46-06a4-4536-8d05-359475e5c0a8,Cycling Helmet,sports,567.36,USD,2022-04-27,N,toBeDropped,I,2025-11-06 11:20:20,1
+d422b63a-e546-4c03-ae24-119d44b9a84e,Running Shoes,Sports,259.36,eur,2025-09-05,N,,I,2025-11-06 22:54:39,1
+4ed24954-a1e1-416e-8082-4edf4a978935,Blender,home,,EUR,2021-08-04,N,toBeDropped,I,2025-11-06 04:38:40,1
+7100ae4f-7fba-40b7-8a14-681d5f9006ee,Cafetera,Hogar,788.27,USD,2024-06-30,N,,I,2025-11-06 05:21:12,1
+8810aabf-2651-4b10-b6ba-7e9f356f0076,Keyboard,electronics,420.23,USD,2022-01-12,N,,I,2025-11-06 13:03:16,1
+c3a889f5-0a2e-4fcc-943f-18b4a8bc485a, Sartén,Hogar,522.35,EUR,2020-08-14,N,,I,2025-11-06 16:18:20,1
+d35716ea-38a5-4268-81a7-d4013e9073ee,Plancha,Hogar,160.63,EUR,2022-09-20,N,,I,2025-11-06 06:06:32,1
+d4e1bc2c-f456-4bd8-8a2e-edd0f24b8855,Peluche,Juguetes,254.27,EUR,2021-07-30,N,toBeDropped,I,2025-11-05 23:10:57,1
+ea6cbdbd-9a6f-4dac-a125-dedcacb3d4ee,  Keyboard,electronics,261.24,EUR,2022-10-12,NO,,I,2025-11-06 22:10:25,1
+891545c2-1eac-49b2-876e-9621c135f30c,Smartwatch, Electronics,76.21,EUR,2022-05-16,N,toBeDropped,I,2025-11-06 13:24:15,1
+758619ac-a2f7-4b5a-8616-02186e0c5ce1,Skipping Rope, Sports,439.83,EUR,2021-09-10,N,,I,2025-11-06 12:31:00,1
+38fb024b-34e5-480b-a880-74285e2ee89e,Toaster,home,36.61,EUR,2020-09-25,N,toBeDropped,I,2025-11-06 04:48:49,1
+34e273d2-1ef8-41e4-8750-c1da29361a96,Running Shoes,Sports,613.13,EUR,2024-09-17,N,,I,2025-11-06 13:08:22,1
+b8f51459-b049-45a6-be70-b163bc957c1e,Coche Teledirigido,Juguetes,562.35,EUR,2023-05-07,N,toBeDropped,I,2025-11-06 13:41:25,1
+39065b06-6a69-4fb7-83f1-0d2189c24939,Cafetera,Hogar,301.32,EUR,2025-02-07,NO,,I,2025-11-06 11:51:53,1
+4f3ba75e-7bf1-4519-832f-f1dd798c30ad,Plancha,Hogar,358.1,EUR,2020-08-14,N,,I,2025-11-06 02:50:08,1
+01677269-d2d1-4ee2-aa0f-2eec6097588b,Vacuum,home,589.35,EUR,2025-03-23,N,toBeDropped,I,2025-11-06 08:49:22,1
+d65e751b-51b1-4ecf-9924-2209fa434bff,Air Purifier ,home,175.79,EUR,2022-07-09,N,toBeDropped,I,2025-11-06 13:49:02,1
+4acf97fc-bdf6-4cc3-b9b1-6db7f8538eaf,Peluche,Electrónica,478.6,EUR,2025-02-21,Y,,I,2025-11-06 03:04:03,1
+30c763e5-8472-405f-9b83-a53d63b1513f,Headphones,electronics,744.34,EUR,2022-09-15,N,,I,2025-11-06 20:12:01,1
+8afc096e-4c52-4385-9c58-9e8b060ed720,Skipping Rope,Sports,63.65,USD,2023-07-18,NO,toBeDropped,I,2025-11-06 16:39:58,1
+00396b55-4ca8-441c-858a-d37669ff6c41, Lamp,home  ,596.18,USD,2025-10-15,N,toBeDropped,I,2025-11-06 13:26:19,1
+d00e3b9d-96fe-434b-b1c2-5a647aece771,Sartén ,Hogar,,EUR,2025-03-01,N,,I,2025-11-06 21:58:25,1
+947cdffc-e31f-40b9-bc7a-23701bdcd3c4,Monitor,electronics,526.32,EUR,2020-09-30,N,toBeDropped,I,2025-11-06 11:49:36,1
+9ed129ee-8119-4c30-b59f-062ef28d1811,  Vacuum ,home,648.85,Usd,2024-03-08,N,toBeDropped,I,2025-11-06 05:00:24,1
+b826fccc-4e3c-4b4e-a886-21b60ac30d8e,Cafetera,  Hogar ,479.65,EUR,2021-02-15,N,toBeDropped,I,2025-11-06 04:55:53,1
+2b9ba5e4-3267-4201-95cc-cec5e94ef4da,Running Shoes,Sports,323.22,Usd,2025-04-23,N,toBeDropped,I,2025-11-06 11:58:25,1
+e16809bd-189f-46e3-ac88-8cbef9eb6c48,Yoga Mat,sports,482.92,Usd,2021-02-09,NO,,I,2025-11-06 06:59:10,1
+c445e675-3928-407e-bfb4-3a81307e3979, Tablet  ,electronics,734.88,USD,2024-09-05,N,toBeDropped,I,2025-11-06 10:06:04,1
+468a2a13-4a6d-4687-a9ee-a9d014812d12,  Kettle  ,home  ,,USD,2023-09-29,N,,I,2025-11-06 01:01:43,1
+db1c6cad-b0c1-4747-9793-199b8f60ba18,Kettle,home,392.88,EUR,2023-03-23,N,,I,2025-11-06 15:53:13,1
+e93b86ba-dc02-463d-bd7d-1fadb88f30df,  Yoga Mat,sports,182.97,USD,2021-04-12,N,,I,2025-11-06 09:33:19,1
+2df0bb95-ce78-4f11-bf3f-2b5f04ba519b,Webcam,Electronics,605.37,EUR,2022-06-06,Y,,I,2025-11-06 17:39:36,1
+7d315d11-71d9-4bf3-b077-fe0d651c3203, Vacuum  ,home,56.42,EUR,2020-12-24,N,,I,2025-11-06 16:35:20,1
+58b2da18-0dd4-4a1c-b315-f069ff1c4913,Skipping Rope,Sports,735.89,EUR,2025-05-22,N,,I,2025-11-06 15:54:46,1
+49b993ab-091e-4df3-9a84-a2e1165cf458,Peluche,Juguetes,616.52,EUR,2024-12-16,yes,,I,2025-11-06 22:36:48,1
+b52b3c75-dfc1-4f77-842d-da0c2f33becb,Coche Teledirigido,Juguetes,203.97,EUR,2024-05-30,N,,I,2025-11-06 06:22:00,1
+5097cd99-05b4-4207-9f23-ee68bedab5dd,Coche Teledirigido,Juguetes,249.92,EUR,2023-02-13,N,toBeDropped,I,2025-11-06 23:29:58,1
+11877242-43e5-4f56-b63e-9f3292f15d27,Monitor,electronics,58.07,EUR,2024-02-26,N,,I,2025-11-06 05:17:28,1
+5942120b-3a48-420a-b4de-c5162d1d7d14, Printer  ,Electronics,722.1,EUR,2021-11-07,N,,I,2025-11-06 00:09:14,1
+154d94ce-01b7-49fb-9191-98c11d3b0eb3,Coche Teledirigido, Juguetes,311.68,EUR,2020-06-03,NO,toBeDropped,I,2025-11-06 21:35:45,1
+b1eb263a-032e-487c-9e26-7f4e8a12b76c,Coche Teledirigido,  Juguetes  ,,EUR,2024-02-27,N,,I,2025-11-06 14:46:48,1
+d642c149-653e-453c-9fd7-07776671098a, Action Figure  ,toys,436.16,EUR,2025-10-09,NO,toBeDropped,I,2025-11-06 11:30:58,1
+4b8beac5-f9f7-4d05-a6cb-1c12b8b22c69,Peluche,Juguetes,735.66,EUR,2024-09-08,N,toBeDropped,I,2025-11-06 12:14:46,1
+564ccef8-375a-4ccf-a5c3-0ac4457bacc4,Cycling Helmet,sports,383.87,EUR,2022-08-11,N,,I,2025-11-06 09:01:11,1
+dfa40533-af59-42db-8850-d9652f4f989b,  Running Shoes ,Sports,,USD,2023-07-15,N,toBeDropped,I,2025-11-06 02:54:33,1
+ae258a4f-7bdd-496d-85dd-9bce04a5178b,Coche Teledirigido,  Juguetes  ,532.24,USD,2021-12-23,N,toBeDropped,I,2025-11-06 03:49:11,1
+78376dc5-621b-4666-a85d-a9da83c4b7f8,Doll,toys,383.72,EUR,2020-12-13,NO,toBeDropped,I,2025-11-06 09:45:17,1
+af22fc64-68f4-4d0e-840d-8bc390ad2504,Running Shoes,  Sports ,37.2,EUR,2024-01-18,NO,toBeDropped,I,2025-11-06 21:55:29,1
+c1c647d6-ee1e-4f70-ad49-be54e48a849e,Pinturas,  Electrónica  ,711.33,Usd,2024-09-15,N,,I,2025-11-06 06:46:24,1
+2a949dfd-4c42-41c0-b06d-6dd5b672654c,Bluetooth Speaker,Electronics,619.02,USD,2021-08-11,N,toBeDropped,I,2025-11-06 10:36:27,1
+451e1fe4-0849-45ee-b286-186429b7dea6,Tennis Racket,sports,410.62,USD,2024-05-15,N,toBeDropped,I,2025-11-06 03:19:08,1
+cdacd5b4-fbb5-4267-b433-cf2670c1be41,Peluche,Electrónica,554.06,EUR,2021-02-23,NO,toBeDropped,I,2025-11-06 04:15:11,1
+937431cc-6d97-4e27-b2a2-8774754eedc2,Doll, toys,741.68,EUR,2023-01-14,N,,I,2025-11-06 15:44:33,1
+a783346a-c9d0-47ab-ac93-b78fa78805e5,  Skipping Rope ,  Sports ,615.35,EUR,2021-12-22,N,,I,2025-11-06 19:03:02,1
+30cce86d-a475-47a6-ba12-66d237e0ace4,Doll,toys,580.5,Usd,2021-05-15,N,toBeDropped,I,2025-11-06 17:00:08,1
+e1637829-7d48-4367-b7d1-7ea74b8ca138,Peluche,Juguetes,315.13,EUR,2022-06-18,N,,I,2025-11-06 15:41:30,1
+3ddad688-4ed6-4dec-8cd0-26579a27572f,Skipping Rope,Sports,5.6,USD,2023-09-19,N,,I,2025-11-06 20:08:46,1
+36b1e648-1d14-4b6a-a94b-164f251e9c90,Running Shoes,Sports,43.64,EUR,2022-08-20,N,,I,2025-11-06 01:43:51,1
+681bc3b9-a09d-43e7-8c96-b157cb0d4312,Football,sports,678.2,USD,2020-09-21,N,,I,2025-11-06 10:19:16,1
+055d3700-28a0-4342-aba1-e2f07f400e46,Headphones,electronics,272.07,EUR,2021-04-27,N,,I,2025-11-06 14:42:09,1
+1ef52ddd-6ba3-4536-b2c4-cb1082563d66,Action Figure,toys,123.91,Usd,2022-05-20,N,toBeDropped,I,2025-11-06 03:59:21,1
+0cf58341-c897-4b79-95fd-634f2921bf93,Air Purifier, Electrónica,783.0,EUR,2025-08-06,NO,toBeDropped,I,2025-11-04 07:20:01,1
+98c06b25-0862-4f00-b689-cdabcd2cf68b,Sartén,Hogar,193.3,EUR,2020-05-26,N,,I,2025-11-06 13:56:36,1
+4bda087a-58c5-4bb4-a7ca-00d75e6ba423,Peluche,Juguetes,592.11,EUR,2021-08-26,NO,,I,2025-11-06 22:55:38,1
+2481efb6-e76d-4a35-871d-4f8cb0a8474f,Action Figure,toys,19.51,EUR,2023-02-11,N,toBeDropped,I,2025-11-06 06:54:21,1
+8febcf04-277b-4eb6-8678-d3125826cb8c,Running Shoes,Sports,168.08,EUR,2023-10-23,N,,I,2025-11-06 00:29:30,1
+306dbb5f-146e-4f23-aa4e-a450f4d070c4,Keyboard,electronics,197.53,EUR,2025-03-01,N,,I,2025-11-06 09:35:32,1
+55b20e8d-aa1d-4ec0-9f56-916d7600de29,Peluche,Juguetes,351.58,EUR,2021-02-18,N,toBeDropped,I,2025-11-06 04:51:08,1
+a99bbbd9-6f2d-46f1-89c8-07a9a798424c,Lego Set,toys,648.68,EUR,2024-11-21,NO,,I,2025-11-06 22:59:18,1
+423e7783-3cb3-4bb2-97ab-1d9e18e7a46c,Board Game,toys,66.17,EUR,2022-07-03,NO,,I,2025-11-06 13:37:14,1
+8341437f-5758-46b4-8a91-8b4987dec588,Cacerola,Hogar,56.22,USD,2024-10-19,NO,toBeDropped,I,2025-11-05 14:43:01,1
+10e548fe-e465-410f-a3fd-f863e7660648,Plancha,  Hogar,716.25,EUR,2023-12-22,N,,I,2025-11-06 03:18:22,1
+17e780fe-9169-442b-830b-76153eefd56b,Printer,Electronics,609.41,EUR,2025-01-30,N,toBeDropped,I,2025-11-06 08:06:21,1
+f6659fd5-525c-4ce6-92ed-0a17998e3084,Lego Set,toys,316.86,EUR,2020-11-09,N,toBeDropped,I,2025-11-06 12:20:24,1
+26ffc6bd-a2d9-4675-8801-9260cd6df549,Coche Teledirigido,Juguetes,142.59,EUR,2024-03-30,N,,I,2025-11-06 03:10:10,1
+b7fe0885-19ef-428d-90a8-3644158b84e0,Pinturas,Juguetes,542.99,USD,2024-07-16,NO,,I,2025-11-06 13:06:52,1
+7e53b79b-6635-4cf7-87e5-eca994c2186c,Gym Bag,Sports,749.69,USD,2024-10-28,N,,I,2025-11-06 13:09:39,1
+1da50131-91a0-4cf7-bc94-97f244edf71b,Gym Bag,Sports,241.72,Usd,2023-07-28,N,,I,2025-11-06 07:17:49,1
+ff83413d-865e-4020-a4b6-25130643898f,Printer,Electrónica,116.43,eur,2022-06-15,N,,I,2025-11-06 05:06:49,1
+ec77cbf4-1805-427d-82e8-f249a7defb70,Running Shoes,Electrónica,758.34,EUR,2022-06-17,N,toBeDropped,I,2025-11-06 07:34:36,1
+73f20ee4-9589-457c-8615-67c5760e9963,Running Shoes, Sports,237.28,EUR,2025-06-18,NO,,I,2025-11-06 19:26:08,1
+fd2ffc09-eb40-4f17-b46e-daaa07859933,Smartwatch,Electronics,,EUR,2025-02-24,N,,I,2025-11-06 07:47:38,1
+7c4420ce-3557-48a5-b0c5-93884afb5d47, Tennis Racket ,sports,43.58,EUR,2023-07-03,N,toBeDropped,I,2025-11-06 16:24:57,1
+c5ae03f1-b4e2-4ac6-ba61-07932ae4e568,Board Game,toys,746.56,EUR,2021-09-04,N,toBeDropped,I,2025-11-06 15:48:34,1
+bb77dac9-7a60-4d4b-b47e-ddbb81b8b7b4,Printer,Electronics,317.34,EUR,2022-09-20,N,toBeDropped,I,2025-11-06 06:59:44,1
+34192d97-713a-4ca7-8650-a7b02e522bc6,Skipping Rope,Electrónica,206.35,EUR,2025-03-16,N,,I,2025-11-06 17:15:22,1
+6fd742a8-c243-4d77-9f30-bcbf289e8b54,Coche Teledirigido,Electrónica,536.53,EUR,2021-01-20,yes,toBeDropped,I,2025-11-06 04:42:02,1
+b1adbfab-e918-4130-a32c-62947c2afa47,Action Figure,toys,532.96,EUR,2025-09-29,N,toBeDropped,I,2025-11-06 07:49:40,1
+528ea7d6-c7a1-45bd-ad0c-438b82280df0,Vacuum,home,348.8,USD,2020-07-24,N,toBeDropped,I,2025-11-06 09:53:31,1
+2769a509-43aa-49cd-b74c-500f24bf9e9d,Sartén,Hogar,445.35,EUR,2021-08-19,N,toBeDropped,I,2025-11-06 06:59:51,1
+211d7d27-ea5c-49af-a670-9cf1118ffa22,Yoga Mat  ,sports,337.18,EUR,2023-10-10,N,toBeDropped,I,2025-11-06 21:04:54,1
+8b6844d5-fe0b-490f-ae78-089d6a3ebdbf, Gym Bag,Sports,125.77,USD,2024-01-19,NO,,I,2025-11-06 00:18:03,1
+f9c54c0b-5bc5-4dae-acb5-bbe598d55426,Toaster,home  ,680.01,EUR,2024-01-12,N,,I,2025-11-06 06:13:18,1
+e35eefa1-9cce-4fd8-b393-d4f9d0352748,Smartphone,electronics,344.55,EUR,2024-12-20,N,,I,2025-11-06 22:05:15,1
+87b0d209-c77c-4208-a085-242b09a12469,Smartphone,electronics,787.01,EUR,2022-11-07,Y,toBeDropped,I,2025-11-06 14:37:50,1
+b8b98d41-435c-4911-84c8-5094c77d803e,Football,sports,797.06,Usd,2020-09-14,N,,I,2025-11-06 20:36:31,1
+81cc0b75-1967-4dd0-8828-524e89e766e7,Sartén,Hogar,229.7,EUR,2025-08-02,N,toBeDropped,I,2025-11-06 17:34:46,1
+378a995f-0c75-40b3-bffe-014ba05f8856,Sartén,Hogar,682.17,EUR,2023-09-20,N,toBeDropped,I,2025-11-06 01:37:50,1
+8ac4dcc1-fe2b-449d-9725-129d2d803685,Gym Bag,Sports,636.02,eur,2022-05-17,Y,,I,2025-11-06 15:01:38,1
+19538486-5903-4489-9055-dbe61c101c22,Smartwatch,Electronics,798.59,EUR,2021-04-16,N,,I,2025-11-06 19:48:10,1
+2ba882a5-0e96-4cd4-afb7-a5acb703f881,Running Shoes,Sports,584.32,EUR,2025-01-25,N,,I,2025-11-06 17:16:12,1
+7105fa69-a861-4712-bed0-8d51d799c253,Headphones,electronics,313.48,USD,2022-07-09,N,toBeDropped,I,2025-11-06 05:32:21,1
+55bca2f7-1646-4639-90aa-6814094fc134,Skipping Rope,Sports ,766.58,EUR,2023-01-19,yes,,I,2025-11-06 00:23:04,1
+6f021697-64a8-4170-b833-0b894366126d,Lego Set,Electrónica,397.8,eur,2025-07-05,N,,I,2025-11-06 06:51:47,1
+04d0f54d-40d0-4d69-bc52-4d4819588960,Headphones,  electronics  ,617.94,eur,2024-06-24,N,,I,2025-11-06 06:18:38,1
+dc3a330e-8345-46ab-9d0c-f470e9d1cf8d,Lego Set,toys,,USD,2025-08-01,N,,I,2025-11-06 08:01:10,1
+f38cefb2-f48a-4b1b-b02d-d8110226e742,Coche Teledirigido,Juguetes,268.09,USD,2022-10-17,NO,toBeDropped,I,2025-11-06 02:24:54,1
+65bece40-74d1-470d-b524-beaebdbf6e17,Blender,home,180.65,EUR,2025-05-26,N,,I,2025-11-06 06:50:11,1
+58f0b604-749f-40ea-8b89-bcbd77fed6e8,Monitor,electronics,35.31,USD,2022-04-28,N,,I,2025-11-06 16:49:19,1
+e236ac09-1829-4336-a69a-a0a50db16647,Puzzle,toys,402.9,EUR,2020-07-06,N,toBeDropped,I,2025-11-06 05:35:11,1
+f411a672-8be6-4f48-a570-311657af4a9e,Air Purifier,home,232.18,EUR,2025-01-26,N,,I,2025-11-06 21:46:03,1
+4ed70850-4c7f-4e0a-9126-001d0f278a09,Running Shoes  ,Sports,518.53,EUR,2023-03-04,N,,I,2025-11-06 15:50:52,1
+87e6f54b-664d-48a6-8783-8b735785f3d1,Running Shoes,Sports,291.06,EUR,2021-10-07,N,,I,2025-11-06 10:30:50,1
+4406a5cb-a76f-428e-9619-9142fae38e34,Bluetooth Speaker,Electronics,55.59,Usd,2022-05-30,N,toBeDropped,I,2025-11-06 23:50:54,1
+ed36b07f-7ce8-4058-a1fa-1f682179c7ad,Puzzle,toys ,100.31,Usd,2024-09-19,N,,I,2025-11-06 23:08:23,1
+4e0ea343-f9f5-41bf-8685-63df1ee60b90,Monitor,electronics,793.72,EUR,2021-02-09,yes,toBeDropped,I,2025-11-06 02:40:25,1
+87e4e920-54b6-4480-b810-5889a38d3c29,Football,sports,683.24,EUR,2023-04-08,N,toBeDropped,I,2025-11-06 01:33:41,1
+c57f67f9-7078-4251-8df6-b6df3583b2bc,Pinturas,Juguetes,780.98,EUR,2020-12-10,N,,I,2025-11-06 05:13:31,1
+57b1f6f3-5b3e-4f33-ad2c-f981a28e3866,Basketball,  sports ,31.99,EUR,2020-09-23,N,toBeDropped,I,2025-11-06 15:19:31,1
+8fbd4dbf-8955-4434-b633-58ae2f9a5227,Coche Teledirigido,Juguetes ,674.89,USD,2021-07-07,N,,I,2025-11-06 06:36:06,1
+38522813-943d-43fd-b5ba-9bdf76300ad7,Keyboard,electronics,199.09,EUR,2023-01-26,yes,toBeDropped,I,2025-11-06 08:47:47,1
+be8bf09c-0edd-40b7-907a-d9e652f40eaa,  Running Shoes , Sports  ,273.93,EUR,2022-10-05,yes,,I,2025-11-06 15:37:15,1
+d517ea68-d597-4b2b-98f8-fd6cfa80b157,Smartwatch, Electronics ,483.52,EUR,2024-11-02,N,toBeDropped,I,2025-11-06 14:42:48,1
+34f0b03d-c0b5-42c9-8712-57eb13107ed1,Smartwatch,Electronics,223.38,Usd,2020-10-16,N,toBeDropped,I,2025-11-06 23:53:44,1
+20ec836e-145c-41ab-9458-0ab5d8f7c0f9,Action Figure,toys,527.35,USD,2025-01-26,N,,I,2025-11-06 10:04:17,1
+a544dc39-2dc5-4984-943b-7f24c8f895eb, Smartphone,electronics,78.17,EUR,2020-12-16,N,toBeDropped,I,2025-11-06 20:09:35,1
+32a5dd7e-e7ee-42e3-858b-c82b60c51692,Doll,toys,269.25,Usd,2021-01-26,N,toBeDropped,I,2025-11-06 06:46:37,1
+b6c63c65-e629-4590-ab8e-5ee8949cb610,Cycling Helmet,Electrónica,791.75,Usd,2022-05-27,N,toBeDropped,I,2025-11-06 14:27:44,1
+f5e87b42-53ff-4bab-a2b3-d9f1e868dc82,Camera,electronics,491.77,USD,2022-03-03,N,toBeDropped,I,2025-11-06 06:18:03,1
+08837814-e440-4cd8-abfe-ad1c8f1b907d,Cacerola,Hogar,685.34,USD,2025-08-13,N,,I,2025-11-06 18:28:14,1
+067be746-7354-4145-8751-665c76a3a761,  Cacerola,Hogar,149.93,eur,2025-04-12,N,toBeDropped,I,2025-11-06 19:11:52,1
+28c143ab-09d6-490d-9537-4289b8abbd55,Action Figure,Electrónica,,EUR,2021-05-01,N,,I,2025-11-06 23:26:30,1
+c7dd7f2a-e5b2-4948-9097-39fc6fdedc6d,Webcam,Electronics,781.87,USD,2023-02-20,N,,I,2025-11-06 03:04:49,1
+5031ef21-8905-4b85-9db4-388d001d9d14,Kettle,home,393.46,EUR,2022-06-09,N,toBeDropped,I,2025-11-06 04:45:34,1
+048a20ba-5bfd-43a4-8173-54763023ad4d,Pinturas,Juguetes,165.46,Usd,2022-10-31,N,toBeDropped,I,2025-11-05 17:48:01,1
+b5b869b6-4381-4d35-98a7-810c87717e9d,Printer,Electronics,244.65,USD,2023-05-02,N,,I,2025-11-06 05:05:13,1
+85f1a4d8-536a-478c-8c5a-bb9a42807284,Coche Teledirigido,Juguetes,625.46,EUR,2020-07-08,N,,I,2025-11-06 01:18:41,1
+d8e00764-c660-4a69-9354-81f7315febf8,Cycling Helmet,sports,552.86,EUR,2022-07-17,N,toBeDropped,I,2025-11-06 03:27:33,1
+7806ea68-4cf4-4434-b900-bdd569eeed11,Blender,home,648.34,Usd,2022-07-08,N,,I,2025-11-06 06:18:29,1
+2ecfe40b-f9ed-4522-9a7d-62cd0f218863,Pinturas,Juguetes,121.83,EUR,2020-05-27,N,,I,2025-11-06 20:02:27,1
+505bcd16-ebc9-4204-b072-5e08b30ae6b6, Plancha  ,Hogar,557.73,EUR,2022-07-05,N,,I,2025-11-06 02:59:07,1
+88db0207-6471-4c8e-b6cb-7104591f38ca,Vacuum,home,39.51,EUR,2023-02-19,yes,,I,2025-11-06 18:37:00,1
+3272491e-1e52-4a0c-b941-4b8e03adb21a,Bluetooth Speaker,Electronics,717.05,USD,2025-03-07,N,toBeDropped,I,2025-11-06 02:16:45,1
+2cc97e98-6c14-4208-a20e-f79038a13612,Puzzle,toys  ,178.92,USD,2021-07-12,N,toBeDropped,I,2025-11-06 19:33:30,1
+734d3505-c587-49eb-b24b-9c996e2bc97a, Lamp  ,home,739.08,Usd,2023-04-10,Y,toBeDropped,I,2025-11-06 06:00:20,1
+ad69543f-541d-4fbc-9131-e1818ebed826,Doll,toys,741.2,EUR,2020-06-05,N,,I,2025-11-06 16:58:22,1
+f5992f6b-25fa-418c-91f4-1f91249e23ee,Sartén,Hogar,558.01,eur,2024-01-03,yes,toBeDropped,I,2025-11-06 07:13:58,1
+b3f18d60-162a-4d56-8bdd-a9eec567323c,Cacerola,Hogar,658.38,EUR,2021-11-02,N,,I,2025-11-06 00:46:59,1
+efd97230-2f40-4197-ac3d-a942381c05d2,Headphones,Electrónica,295.21,EUR,2022-02-09,N,,I,2025-11-06 07:24:08,1
+ba38f4e3-626f-4485-b2dc-534285a3ce69,Running Shoes,Sports,301.5,Usd,2021-10-31,N,,I,2025-11-06 13:26:39,1
+d90ddac3-86b3-4277-8b32-2e0e79e63ef1,Printer,Electronics,560.65,EUR,2022-04-28,NO,toBeDropped,I,2025-11-06 18:11:04,1
+744e55f1-8b67-4165-ba3e-9f36f1845eac,Yoga Mat,sports,663.53,EUR,2021-09-17,N,,I,2025-11-06 10:06:33,1
+3d9f1353-3d0d-46c5-9282-9e9972b019d1,Tennis Racket, sports ,173.68,EUR,2025-07-13,NO,toBeDropped,I,2025-11-05 10:49:18,1
+679be977-a71b-450b-8672-c6162fe81c94,Smartwatch, Electronics ,186.1,EUR,2020-10-30,N,,I,2025-11-06 12:53:34,1
+ce238937-0cf2-4779-b8f7-bd94a1530946,Doll,  toys  ,701.01,EUR,2024-12-16,N,,I,2025-11-06 12:54:57,1
+9422437d-ffcb-4d32-aa93-1606e204f578,Board Game, toys,211.13,Usd,2022-08-01,N,,I,2025-11-06 02:56:52,1
+8ca64ab1-f9bf-4b46-b97e-4873da1dc9e0,Coche Teledirigido,Electrónica,577.57,EUR,2023-12-19,N,,I,2025-11-06 05:42:30,1
+03675982-a5b0-4125-8a40-ca29a51873f9,Headphones  ,electronics,690.72,EUR,2020-07-30,N,toBeDropped,I,2025-11-06 05:17:23,1
+544f1edb-651f-4fb3-ac67-006f3dc3e8f8,Printer,Electronics,,EUR,2024-12-16,N,,I,2025-11-06 07:43:03,1
+3571becc-260f-48d9-94bb-652be8f71e28,Webcam,Electronics,210.86,EUR,2022-11-10,N,toBeDropped,I,2025-11-06 23:14:43,1
+9be9c658-7f2e-47ee-8e21-397b40ac8e6c,Smartwatch, Electronics ,,EUR,2021-11-13,Y,toBeDropped,I,2025-11-06 09:15:43,1
+d7505896-dbef-4622-b32e-459e7a299d6c,Keyboard,  electronics  ,708.98,EUR,2022-08-06,N,,I,2025-11-06 02:27:01,1
+efa15297-0f26-47f1-8d14-0a8820e542fe,Running Shoes, Sports,410.81,EUR,2022-08-31,Y,toBeDropped,I,2025-11-06 15:00:34,1
+09094134-ce58-42fb-84b6-204eb56550f4,Coche Teledirigido,Juguetes,168.71,Usd,2023-11-01,Y,toBeDropped,I,2025-11-06 22:46:09,1
+47d0b57f-8525-43bb-accc-414ff90a54ff,Doll ,toys,54.42,USD,2021-06-11,NO,toBeDropped,I,2025-11-04 10:13:46,1
+bce00947-1e1c-440d-82d7-b6f1752f7c57,Cafetera,Hogar,439.34,eur,2021-11-18,N,toBeDropped,I,2025-11-06 15:32:54,1
+dca925cb-fd2a-45bd-82a2-076a55b17f62,Gym Bag,Sports,126.42,EUR,2022-06-08,N,toBeDropped,I,2025-11-06 04:04:26,1
+869e7cec-2c82-455a-a2f7-eef2a8d6f9ec,Plancha,Hogar,129.4,eur,2022-11-27,N,,I,2025-11-06 12:46:05,1
+611e2e43-db69-4ac7-bfd8-3fa72edc5316,Cafetera,Hogar,371.19,EUR,2021-01-26,NO,,I,2025-11-06 16:16:56,1
+c532b875-f640-402b-8dd0-162c8ff179a7,Sartén,Hogar,324.41,EUR,2021-12-17,yes,toBeDropped,I,2025-11-05 01:02:33,1
+4162613f-f2db-4ce9-b7d1-9a203d8a38bc,Keyboard,electronics,377.46,USD,2021-02-03,N,toBeDropped,I,2025-11-06 14:28:09,1
+6c6f39c9-5af3-4e74-beed-06cf6ea4ea35,Smartphone, electronics ,296.59,EUR,2021-04-20,N,toBeDropped,I,2025-11-06 13:30:52,1
+27c1199c-fc3f-457e-8914-41f0cd83b084,Football,sports,550.4,EUR,2022-11-02,N,,I,2025-11-04 22:12:17,1
+2bbdb70c-c7fc-48b3-b4df-8b7afbc4358a,Action Figure,toys,254.11,EUR,2025-05-14,N,toBeDropped,I,2025-11-06 00:17:20,1
+a5c3a486-82f5-47dd-b1ac-54bbb75cc7c8,  Puzzle,toys,436.87,EUR,2021-06-05,N,,I,2025-11-06 19:06:35,1
+0a610910-582e-4d55-974d-93b71422dc3e,Lamp,home,684.29,EUR,2023-10-31,N,,I,2025-11-06 20:56:01,1
+cf9adfa6-b4a1-45fc-956b-a43603a3d4c6,Running Shoes,Sports,768.71,EUR,2024-04-20,NO,,I,2025-11-06 10:48:12,1
+fe8ea442-9dd2-4e59-ad53-ac1d1041fd92,Headphones  ,electronics,,EUR,2025-05-11,N,toBeDropped,I,2025-11-06 02:16:56,1
+fba39123-9797-4d19-9564-b15cfeec80d6,Peluche,Juguetes,658.96,USD,2022-10-14,N,,I,2025-11-06 13:35:48,1
+3ae2b713-9fb2-4c6d-ab35-c3c27163b613,Basketball,sports,63.77,EUR,2020-11-12,N,,I,2025-11-06 13:09:05,1
+18a960c2-cba5-4744-91ae-eb0897e37499,Toaster,home,383.45,EUR,2024-11-17,N,toBeDropped,I,2025-11-06 17:57:47,1
+8fe2810c-02a5-4c6b-b942-19f80af9c44f,Doll, toys,194.39,USD,2020-12-30,N,toBeDropped,I,2025-11-06 16:07:40,1
+95e796f7-53db-46df-b9a4-5005d182855f,Skipping Rope,Sports,664.18,EUR,2020-09-26,N,toBeDropped,I,2025-11-06 10:01:18,1
+ac7ea511-e655-4e9a-827f-2d4194ef1429,Monitor,electronics,95.86,EUR,2021-03-10,NO,,I,2025-11-06 04:25:56,1
+65bd065b-caab-493e-9762-327f36bbed83,Skipping Rope,Sports,655.08,USD,2021-02-15,N,toBeDropped,I,2025-11-06 13:43:05,1
+3b6f20e0-daf7-44d6-bfe4-a5f120e209be,Cacerola,Hogar,264.91,USD,2022-12-08,N,,I,2025-11-06 15:56:12,1
+012712a7-447f-4a93-adb7-7d00c749af20,Yoga Mat,sports,355.29,Usd,2021-08-03,N,,I,2025-11-06 17:52:54,1
+78376dc5-621b-4666-a85d-a9da83c4b7f8,Doll,toys,383.72,EUR,2020-12-13,NO,toBeDropped,I,2025-11-06 02:54:25,1
+1ef52ddd-6ba3-4536-b2c4-cb1082563d66,Action Figure,toys,123.91,Usd,2022-05-20,N,toBeDropped,I,2025-11-06 14:53:20,1
+3272491e-1e52-4a0c-b941-4b8e03adb21a,Bluetooth Speaker,Electronics,717.05,USD,2025-03-07,N,toBeDropped,I,2025-11-06 15:34:44,1

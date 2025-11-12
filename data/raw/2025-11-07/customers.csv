@@ -1,0 +1,93 @@
+customerId,firstName,lastName,emailAddress,phoneNumber,customerSince,isActive,extraField1,op,eventTime,seqNum
+2fc0e3c9-068b-449a-bf94-78af291a4759,MARTA,Fernández,martafernández+u9@example.com,888653687,2021-03-17,Y,,U,2025-11-07 17:31:55,2
+727dd144-7933-480a-9055-ea5d4712d51e,Marta,Sánchez  ,martasánchez+u8@mail.com,210096896,2022-07-31,Y,legacy,U,2025-11-07 14:52:26,2
+60b7ee25-1aa2-4999-9331-42717a8cd4ac,María,Fernández,maría_fernández+u9@example.com,249731073,2025-09-26,Y,,U,2025-11-07 21:28:21,2
+2beb50cb-a376-456a-82be-60f38f6bab3a,Miguel,Fernández,miguel-fernández+u1@mail.com,374312711,2022-12-23,Y,legacy,U,2025-11-07 16:32:55,2
+a0f1baa2-320b-42c9-b3c2-be8f04fe4fec,Pablo ,díaz,pablo_díaz+u5@mail.com,160010024,2022-09-24,Y,,U,2025-11-07 09:27:40,2
+7c1e81bc-789a-41d0-a7f0-fcc106c73813,Javier,sánchez,javier-sánchez+u2@correo.es ,287163037,2025-06-20,Y,,U,2025-11-07 10:02:51,2
+e43279f3-4391-44c6-b8d5-243900f40d26, CARLOS  ,Martínez,carlos.martínez+u4@correo.es,961652656,2023-05-23,Y,legacy,U,2025-11-07 15:55:30,2
+0cfa4e64-bef1-4fd1-8b60-32b26c50600b,Sofía ,garcía,sofía.garcía+u2@correo.es,536364891,2025-06-16,Y,,U,2025-11-07 16:13:12,2
+a1e2cf3b-596b-4f5c-825a-5a4d911b12da,Luis,rodríguez,luisrodríguez+u3@mail.com,499887522,2022-11-01,Y,,U,2025-11-07 22:23:59,2
+ccfded4f-fb22-4ed0-9d65-2b1323994f0b,Miguel ,López,miguellópez+u3@example.com,177940451,2023-07-18,y,N/A,U,2025-11-07 08:38:46,2
+928fc9e4-d5d1-4f6c-84b5-df85b78dc1a2,LUCÍA,Gómez,lucía.gómez+u9@test.org,398133260,2022-04-07,Y,,U,2025-11-07 02:57:01,2
+d1f07097-6ded-4901-8b7c-3f2d817e6c3a,Ana,rodríguez,ana_rodríguez+u2@test.org  ,741875316,2023-05-07,y,,U,2025-11-07 11:45:14,2
+1d49ec66-a48d-41d2-ab37-8fff2b9499cf,Javier,Díaz,,552102019,2021-05-30,Y,,U,2025-11-07 18:59:04,2
+1d65e0b8-fa3b-4805-b46f-c26e7b8f83f4,Juan,Díaz,juan-díaz+u9@correo.es,906694263,2025-03-14,Y,,U,2025-11-07 13:51:14,2
+a87aa2e9-063d-4070-8077-9199065a3d5b,LUCÍA,Martínez,  lucía.martínez+u6@test.org ,697105248,2024-09-01,Y,,U,2025-11-07 09:09:40,2
+c3b5c832-091e-4abb-8583-bca6cd607c6c,Ana,gómez,anagómez+u5@correo.es,594679153,2025-03-28,Y,,U,2025-11-07 03:27:42,2
+432a7ec6-5d7e-41c3-9fda-6005abe565a8,Laura,  Sánchez,laura_sánchez+u3@correo.es,967323246,2024-12-30,Y,legacy,U,2025-11-05 11:53:05,2
+b605e1ab-83ff-4f5b-a827-3d79607756e3,María,martínez,maría.martínez+u2@example.com  ,830220268,2023-10-03,Y,,U,2025-11-05 15:04:38,2
+c4404ffe-ae26-4e8b-ba77-c6752413630b,  MIGUEL  ,González,,473774839,2023-12-11,y,,U,2025-11-07 20:33:29,2
+c86a0b5d-f9db-4cd1-8995-9f2acb6721bd,Sofía,González,sofía_gonzález+u9@example.com,904779649,2020-12-11,Y,,U,2025-11-07 13:43:15,2
+bdbcd9c7-dc79-4ad7-b649-212fe3136177,Javier,Gómez,javier-gómez+u9@test.org,,2022-06-05,N,,U,2025-11-07 01:00:00,2
+c2a53e23-f85b-47de-8c2f-8b615d2be575, Lucía ,díaz,  lucíadíaz+u2@test.org ,713034785,2025-06-07,n,N/A,U,2025-11-07 07:24:39,2
+e93e2af9-1f98-4823-aa27-7a334941c9da,LAURA,díaz,laura-díaz+u9@test.org,267562022,2023-08-15,Y,,U,2025-11-07 09:31:16,2
+57e3e819-d25f-4ec6-83fe-75cfd3bb2a12,Ana,González,ana_gonzález+u6@test.org,310530952,2022-09-02,Y,,U,2025-11-07 02:07:44,2
+0df262ed-e4fd-4839-8719-48ed8742ec6d, Carlos,martínez,,356285622,2023-06-12,Y,legacy,U,2025-11-07 11:02:41,2
+f669a748-2f86-49e0-972e-2097b2b6d032,Carlos, González  ,carlosgonzález+u6@example.com,328316630,2023-05-20,Y,,U,2025-11-07 11:40:17,2
+2dafd95d-a4f6-4272-af43-09ed2548b108,JAVIER, Sánchez  ,javiersánchez+u7@test.org,907587255,2025-03-10,Y,N/A,U,2025-11-07 21:18:22,2
+a2351e6b-2568-4d8f-9a3a-becf35842ddc,Carlos,  González,carlos_gonzález+u3@correo.es,659474268,2025-02-05,Y,,U,2025-11-07 21:48:39,2
+bfbb375c-4f98-4ae4-88c5-3e10c9e14d16,CARLOS,gonzález,carlos.gonzález+u3@mail.com,948150248,2024-09-16,Y,,U,2025-11-07 04:41:59,2
+4504e81c-2c02-4880-98ea-acf53c87d802,Luis,López,luis_lópez+u4@test.org,463190800,2025-08-11,y,N/A,U,2025-11-07 17:05:14,2
+3b671e53-641b-4080-b83f-b45a39011406,Javier,González,javier_gonzález+u7@test.org,490233563,2022-02-18,y,,U,2025-11-07 09:29:28,2
+7a35311b-0f0e-447f-a171-2fecaf501bb3,MARTA,garcía,marta-garcía+u8@correo.es,998628516,2025-05-08,Y,,U,2025-11-07 01:23:39,2
+73df66b5-a867-4cf5-96c0-24b44c46a52d,Pablo,Martínez,pablo.martínez+u3@correo.es ,696367678,2021-05-14,Y,N/A,U,2025-11-07 11:18:12,2
+f887af16-0c9b-431c-ae58-47fee21e13fe,María,González,maría-gonzález+u5@test.org,034672599,2022-02-19,Y,legacy,U,2025-11-07 12:38:32,2
+7f0121b2-5705-4371-ae02-5356443a2937,PABLO,Rodríguez,  pablo.rodríguez+u6@example.com  ,339046106,2021-06-09,N,,U,2025-11-07 11:25:26,2
+569a26e1-68bb-4fb9-9b6f-9f72d19be0e4,Laura,López,,783488805,2025-03-09,y,,U,2025-11-07 03:52:44,2
+f55759be-09de-4137-a9e6-e7935f712afd,Javier,díaz,javier.díaz+u3@mail.com,172918076,2024-04-02,y,,U,2025-11-07 01:16:07,2
+cf5494f1-c5f9-4355-9fe6-6c7e9c930a13,Ana,González,ana.gonzález+u6@test.org,646936664,2025-06-26,N,,U,2025-11-07 03:29:39,2
+93d96f8d-d5aa-4474-bfa0-f09d764eb366,Carlos,Díaz,carlos_díaz+u9@test.org ,970879220,2025-01-21,Y,,U,2025-11-07 06:51:13,2
+2332d04e-5c76-49c3-8ad1-bdaa25b2df76,Laura,Gómez,laura-gómez+u4@correo.es,807235834,2023-08-10,Y,N/A,U,2025-11-07 15:08:43,2
+c0311701-e65b-4218-81f2-50d64476e12a,  MARTA  ,Díaz,martadíaz+u8@example.com,894431144,2021-02-05,Y,legacy,U,2025-11-07 16:22:46,2
+ab185fc5-481d-4b17-a3ab-79538d01b105, Lucía  ,Martínez,,333513944,2022-05-31,Y,,U,2025-11-07 21:03:49,2
+8bdd81a0-0328-41a9-8bfe-abb2638d2471,PABLO,Pérez,pablopérez+u5@example.com,440450368,2023-05-22,Y,,U,2025-11-07 12:53:03,2
+517509b1-ba88-4067-ac2c-a611025ee692,MARÍA,gonzález,maría-gonzález+u2@correo.es,,2024-03-29,Y,legacy,U,2025-11-07 18:21:51,2
+2d110784-8348-4382-9280-f53520b969d3,  María ,Díaz,maría.díaz+u3@mail.com,442740773,2024-11-02,Y,N/A,U,2025-11-07 06:15:13,2
+8c234977-0a57-4fd0-9c78-4a5704e48f89,Luis,García,luis_garcía+u1@correo.es,184752892,2022-12-16,Y,,U,2025-11-07 18:02:21,2
+cba7b31e-f92f-47ab-ae01-2568a5b220f0,JAVIER,  González ,javier.gonzález+u3@correo.es,108629142,2021-03-02,Y,legacy,U,2025-11-07 16:23:33,2
+46ff08f0-0d8d-4cef-9e4f-18db4b30fea0,Miguel,Martínez,miguelmartínez+u2@correo.es,112436423,2022-12-03,Y,,U,2025-11-07 17:52:57,2
+5b3d0b07-ddba-4e48-8e50-2b4561b11bcd,María,Martínez,maríamartínez+u7@example.com,644276123,2025-05-11,Y,,U,2025-11-07 00:28:20,2
+1d0d9155-b9c6-4ff7-9f90-30742d8c9bcd,CARLOS, díaz ,carlos.díaz+u4@correo.es,193410845,2024-02-19,Y,legacy,U,2025-11-07 09:00:57,2
+a3230198-a5fe-4510-9fff-ef58c2a4c9a1,  LUIS ,Sánchez,luis_sánchez+u9@test.org,134132305,2024-06-06,Y,,U,2025-11-07 16:00:35,2
+9cbcf055-4b5b-4130-9ced-1a4c9f18d31e,Lucía,Pérez,lucíapérez+u7@mail.com,589880042,2023-06-02,Y,legacy,U,2025-11-07 20:33:48,2
+ec36ca1e-ea83-4c44-8898-d02f6cc30a7a, Javier,García,javier-garcía+u8@mail.com,719698684,2022-03-07,N,,U,2025-11-07 06:32:23,2
+9521bfdc-c557-431f-8fd5-d29275bb7c55,JUAN,fernández,juanfernández+u1@correo.es,951414290,2025-03-02,Y,,U,2025-11-07 13:35:19,2
+e7d735af-9f73-4620-bbb7-98e4906535e2,Juan,Rodríguez,juanrodríguez+u3@correo.es,710785297,2021-07-28,Y,N/A,U,2025-11-07 17:07:53,2
+5ebb0cf1-589a-462d-90f8-3abbf8134e02,Laura,rodríguez,laura_rodríguez+u8@mail.com,423799174,2024-01-31,Y,,U,2025-11-07 17:11:16,2
+077a0fa6-7793-466f-8fe8-ce7e25b2f1d2,Ana,López, analópez+u7@example.com ,628388111,2025-07-21,Y,,U,2025-11-07 04:06:58,2
+bf963233-94ac-4294-a7ff-09009e11b00b,Luis,gómez ,luis.gómez+u4@test.org,411335268,2023-04-15,y,,U,2025-11-07 14:24:22,2
+d8e1014d-46d0-4f3a-b56d-86fc5d9348dd,Marta,pérez, marta-pérez+u2@mail.com  ,364081019,2024-02-15,N,,U,2025-11-07 10:30:46,2
+8a807f4d-aa53-4e82-aa51-c1a6895143d1,María,martínez,maría_martínez+u4@test.org,722979165,2022-06-17,N,legacy,U,2025-11-07 19:35:05,2
+9878f4e1-bc9e-4deb-b47e-db8b5a2ed252,PABLO,López,pablo.lópez+u8@mail.com,411242165,2020-12-22,Y,,U,2025-11-07 04:00:50,2
+e95a8793-9c04-49dc-aceb-4c337e2835dc,Miguel,gómez,miguelgómez+u9@example.com,231514835,2025-09-12,Y,,U,2025-11-07 21:08:21,2
+02ee086b-80b9-4092-861a-d190eaf123dc,Pablo,  Rodríguez  ,pablo-rodríguez+u6@correo.es,560212482,2021-05-01,Y,legacy,U,2025-11-07 01:51:54,2
+f163cc2b-6335-427f-9a30-283c95dc1bff,Javier,García,javiergarcía+u5@test.org ,939208228,2022-12-17,N,legacy,U,2025-11-07 16:44:19,2
+80bc6ce2-6e85-449c-ac1b-9b3f05847c05,MARÍA,sánchez  ,maríasánchez+u2@mail.com,724541310,2021-08-19,y,,U,2025-11-07 15:25:21,2
+f64a700e-916b-407f-8151-43300595edf9,  Pablo , rodríguez,pablo-rodríguez+u2@test.org,754554510,2024-02-14,Y,,U,2025-11-07 13:20:21,2
+150aacb2-6a77-4754-9257-b25280de1406,Juan, Martínez ,juan.martínez+u8@mail.com,206859542,2023-08-08,y,N/A,U,2025-11-07 08:12:53,2
+bf963233-94ac-4294-a7ff-09009e11b00b,Luis,gómez ,luis.gómez+u7@test.org,411335268,2023-04-15,Y,,U,2025-11-07 01:15:34,2
+29dbe0d8-8184-468b-8691-06203c066467,Laura ,Martínez,laura.martínez+u5@mail.com,645592723,2021-05-28,Y,,U,2025-11-07 04:33:20,2
+fc75558f-1335-46ab-b94f-b6dd4e58be15,LAURA,Pérez,laurapérez+u4@mail.com,471278335,2023-08-14,Y,N/A,U,2025-11-07 12:32:26,2
+82eb16db-fb66-473e-814f-591cf806df39,JAVIER,lópez,,300165260,2021-08-01,Y,,U,2025-11-07 13:40:12,2
+9f3b1244-1a36-4f0d-a9fa-9540c1501866,  LUCÍA ,González,lucía.gonzález+u9@correo.es,112186855,2024-01-02,Y,,U,2025-11-07 17:00:05,2
+aa9b058f-f7c3-4ec1-9ccc-55040f88cded,LUCÍA,martínez,lucíamartínez+u2@correo.es,318338415,2021-01-09,Y,,U,2025-11-07 09:28:02,2
+acebd143-994d-4176-8bef-45ba6a422dce,PABLO,Rodríguez,pablo_rodríguez+u2@mail.com,602273023,2025-10-05,Y,,U,2025-11-07 03:18:37,2
+2a71abe6-02e8-42e5-80b2-3b2646288671,Juan,Díaz,juan-díaz+u6@correo.es,126308567,2021-04-09,Y,,U,2025-11-07 03:01:16,2
+93480007-0c5d-43df-b70d-951c2ed30c92,Juan,González,juan.gonzález+u2@mail.com,237357351,2025-06-17,Y,legacy,U,2025-11-07 18:08:01,2
+265286fa-ca02-4a8d-bda5-1a62976f3725,CARLOS,martínez,carlos-martínez+u2@mail.com,716176401,2023-06-06,y,N/A,U,2025-11-07 15:17:12,2
+6e950421-a28a-4bd4-9824-cd9017e9292f,Laura,Martínez,laura-martínez@correo.es,403801875,2023-07-03,Y,,D,2025-11-07 15:05:27,2
+8bdd81a0-0328-41a9-8bfe-abb2638d2471,PABLO,Pérez,pablopérez@example.com,440450368,2023-05-22,Y,,D,2025-11-07 03:58:27,2
+04c44393-e195-4f5a-bc5f-953d2fe868c3, LAURA,Gómez,laura_gómez@mail.com,882729149,2024-06-25,Y,,D,2025-11-07 09:48:54,2
+d02e6060-fee1-4753-b05b-e2240eec6d82,Ana,Fernández  ,ana-fernández@correo.es,128617400,2021-05-17,y,N/A,D,2025-11-07 10:36:32,2
+3136b37b-9c49-4e9a-8805-0beec15b7d6a,Laura,  Sánchez  ,laura.sánchez@mail.com,094554619,2021-01-27,N,,D,2025-11-07 22:05:47,2
+2beb50cb-a376-456a-82be-60f38f6bab3a,Miguel,Fernández,miguel-fernández@mail.com,374312711,2022-12-23,Y,legacy,D,2025-11-07 10:37:16,2
+2a71abe6-02e8-42e5-80b2-3b2646288671,Juan,Díaz,juan-díaz@correo.es,126308567,2021-04-09,Y,,D,2025-11-07 18:42:58,2
+9b3d8e8e-5bf8-4ac6-9297-60f8996d5fa6,Pablo,Díaz,pablo.díaz@mail.com,523467413,2025-03-19,Y,,D,2025-11-07 04:56:25,2
+6233b553-15e9-46dc-b070-441a28740cdf,Lucía,rodríguez,lucía-rodríguez@test.org,479405989,2023-10-18,Y,,D,2025-11-07 05:18:45,2
+c3b5c832-091e-4abb-8583-bca6cd607c6c,Ana,gómez,anagómez@correo.es,594679153,2025-03-28,y,,D,2025-11-07 00:28:04,2
+d49d4684-3c46-4c66-9083-b4197286ba0c,María,díaz,maría.díaz@correo.es,745986469,2021-05-29,N,legacy,D,2025-11-07 05:35:25,2
+1886aa9d-eda9-4fbb-a826-8fdf19d71cfa,CARLOS,  Gómez ,carlos_gómez@correo.es,981247469,2021-01-05,Y,N/A,D,2025-11-07 17:09:03,2
+8ea4d4f7-522a-4949-8e13-093e0d829b5a,Javier, garcía,javiergarcía@correo.es,159772307,2023-07-27,y,N/A,D,2025-11-07 16:45:48,2
+1dafac7c-2efa-4e3c-a4dd-961e77752d63,  María ,  García,maríagarcía@mail.com,243762180,2022-03-03,Y,,D,2025-11-07 13:19:28,2
+1d9daaff-ab1c-43ed-8748-f6edafb101cd,Miguel,gonzález,miguel-gonzález@mail.com,094270803,2024-01-05,y,,D,2025-11-07 09:10:36,2

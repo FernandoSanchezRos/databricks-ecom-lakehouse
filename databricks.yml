@@ -1,0 +1,36 @@
+bundle:
+  name: ecom-lakehouse
+
+workspace:
+  root_path: /Workspace/Users/plaza.grinan.antonia@outlook.es/databricks-ecom-lakehouse
+
+variables:
+  cluster_id:
+    description: Existing cluster to run dev jobs
+  notify:
+    description: Notification email
+
+targets:
+  dev:
+    mode: development
+    default: true
+    workspace:
+      profile: adb-1886667934170977
+    variables:
+      cluster_id: "1106-205727-rsyb2c2v"
+      notify: "sanchez.ros.fernando@gmail.com"
+
+resources:
+  jobs:
+    setup_env_job:
+      name: ecom_lakehouse__setup_environment
+      tasks:
+        - task_key: setup_env
+          existing_cluster_id: ${var.cluster_id}
+          notebook_task:
+            notebook_path: ${workspace.root_path}/files/notebooks/00.environment_setup
+          email_notifications:
+            on_success:
+              - ${var.notify}
+            on_failure:
+              - ${var.notify}
